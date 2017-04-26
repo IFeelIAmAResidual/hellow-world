@@ -1,4 +1,4 @@
-# hellow-world<<<<<<< statistics
-i am the king=======
+# hellow-world
 a test
-i want do some demage to some creature>>>>>>> master
+i want do some demage to some creature
+chishi
